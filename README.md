@@ -45,5 +45,3 @@ Email: ilma@gmail.com <br>
 Email: t_kasun@mail.com <br>
 Email: t_padmini@gmail.com <br>
 Email: t_lahiru@gmail.com <br>
-
-<h1 align="center">Credits to M.T.M. Zakir</h1>
